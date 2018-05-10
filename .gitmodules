@@ -27,9 +27,9 @@
 	branch = master
 [submodule "kcptun/kcptun"]
 	path = kcptun/kcptun
-	url = https://github.com/xtaci/kcptun.git
-	branch = master
+	url = https://github.com/shadowsocks/kcptun.git
+	branch = shadowsocks
 [submodule "kcptun/go"]
 	path = kcptun/go
-	url = https://github.com/golang/go.git
-	branch = master
+	url = https://github.com/shadowsocks/go.git
+	branch = shadowsocks
